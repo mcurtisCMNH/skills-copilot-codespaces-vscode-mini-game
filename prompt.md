@@ -1,0 +1,7 @@
+This is the prompt I used in Copilot Chat to generate the rock, paper, scissors game found in app.py:
+
+```Build a command line game using python with a human player and a computer player. To begin a round, the human player is prompted to submit one of the following options: rock, paper, or scissors. No other input should be accepted. Next, the computer player should randomly submit one of the following options: rock, paper, or scissors. The player that submitted rock gains a point if the other player submitted scissors. The player that submitted scissors gains a point if the other player submitted paper. The player that submitted paper gains a point if the other player submitted rock. If the human player gained a point, print "You won!" to the console. If the computer player gained a point, print "You lost!" to the console. Otherwise, print "You tied!" to the console. Then, the human player is prompted "Do you want to play again?" If the human player submits "yes" then begin a new round. If the human player submits "no", print the human player's points and exit the game.```
+
+I then asked how I could simplify this question, and copilot gave me this response:
+
+```Can you help me build a simple command line Rock, Paper, Scissors game in Python? The game should include a human player and a computer player. The game should continue until the human player decides to stop.```
